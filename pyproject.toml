@@ -1,0 +1,17 @@
+[project]
+name = "biorthogonal-fpe"
+version = "0.1.0"
+description = "Biorthogonal-decomposition local counterdiabatic (LCD) driving for discrete Fokker-Planck dynamics, with a 4th-order Magnus integrator."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+notebook = ["jupyter>=1.0", "ipykernel>=6.0"]
+
+[tool.setuptools]
+packages = ["src"]
