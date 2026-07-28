@@ -336,4 +336,13 @@ CPU-only — no GPU acceleration is used anywhere in this repo.
 
 ---
 
-## Citation / paper section
+## Citation 
+@misc{cranganore2026stochasticcounterdiabaticdrivingbiorthogonal,
+      title={Stochastic Counterdiabatic Driving via Biorthogonal Liouvillian Eigenmodes}, 
+      author={Sandeep Suresh Cranganore and Sebastian Lehner and Johannes Brandstetter and Max Welling},
+      year={2026},
+      eprint={2607.24393},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph},
+      url={https://arxiv.org/abs/2607.24393}, 
+}
