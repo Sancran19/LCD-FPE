@@ -334,9 +334,6 @@ Platinum 8468 (48 cores/socket, 2 threads/core; 192 logical CPUs total),
 2 TiB RAM, Rocky Linux 9.8 (kernel 5.14.0-687.17.1.el9_8.x86_64).
 CPU-only — no GPU acceleration is used anywhere in this repo.
 
-A paste-ready LaTeX version of this statement is in
-`docs/reproducibility_statement.tex`.
-
 ---
 
 ## Citation / paper section
